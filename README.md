@@ -1,31 +1,14 @@
-# Frontend E-commerce
+# MubStore - E-commerce Frontend
 
-Este proyecto corresponde al frontend de una tienda e-commerce realizado como parte del módulo de aprendizaje de Git y desarrollo frontend.
+Este proyecto consiste en el desarrollo del Frontend para una tienda online de audífonos de alta fidelidad.
 
-El objetivo de este proyecto es practicar la estructura básica de un sitio web, el uso de Git para control de versiones y la publicación de proyectos en GitHub.
+## Tecnologías empleadas
+- **HTML5**: Estructura semántica de las páginas.
+- **Bootstrap 5**: Framework para el diseño responsivo y componentes (Cards, Navbars, Grids).
+- **CSS3**: Estilos personalizados.
+- **Git/GitHub**: Control de versiones y portafolio.
 
-## Descripción del proyecto
-
-La tienda cuenta con:
-- Barra de navegación
-- Página principal con listado de productos
-- Tarjetas de productos con botón de compra
-- Página de detalle del producto
-- Página de carrito de compras
-- Footer con información básica
-
-## Tecnologías utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-
-## Estado del proyecto
-
-Proyecto en desarrollo. Corresponde a una primera parte del desarrollo frontend y al uso de Git.
-
-
-
-Proyecto realizado con fines educativos.
+## Vistas incluidas
+1. Inicio (Landing page con listado de productos).
+2. Detalle del Producto (Descripción técnica).
+3. Carrito de Compras (Resumen de pedidos).
